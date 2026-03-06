@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://gitlab.com/rlbx-scripts/elysium/-/raw/main/loading"))()
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/uUKi5FHzID/0"))()
